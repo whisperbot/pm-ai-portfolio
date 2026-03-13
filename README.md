@@ -25,7 +25,9 @@
 
 ### 4) Templates（可复用模板）
 - [案例模板](templates/case-template.md)
-- [PRD 模板](templates/prd-template.md)
+- [PRD 模板（Lite）](templates/prd-template.md)
+- [⭐ PRD 模板（Pro）](templates/prd-template-pro.md)
+- [PRD Pro 使用指南](templates/prd-template-pro.guide.md)
 
 ## 📈 What I optimize
 - 用户价值：更快、更准、更可控
