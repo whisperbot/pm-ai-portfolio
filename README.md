@@ -9,6 +9,9 @@
 
 ## 🧭 Portfolio Map
 
+### 0) Showcases（代表项目）
+- [Showcase 01｜AI Music（2024-2025）](showcases/showcase-01-ai-music-2024-2025.md)
+
 ### 1) AI Product Cases（案例）
 - [Case 01 - 用户访谈摘要自动化](cases/case-01-user-interview-summary.md)
 
