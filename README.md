@@ -22,6 +22,7 @@
 
 ### 2.5) Insights（洞察）
 - [Insight 01｜AI 应用中，什么场景适合“小模型”方案](insights/insight-01-when-to-use-small-models.md)
+- [Insight 02｜AI Music 小模型技术方案：LLM-lite 意图理解框架](insights/insight-02-llm-lite-intent-understanding.md)
 
 ### 3) Workflows（工作流）
 - [周报生成工作流](workflows/weekly-report-workflow.md)
@@ -43,6 +44,7 @@
 - 2026-03-13：新增 PRD 模板 Pro + 使用指南
 - 2026-03-13：补齐开源协作文件（LICENSE / CONTRIBUTING / PR 模板）
 - 2026-03-13：新增 Insight 01（小模型选型）
+- 2026-03-13：新增 Insight 02（AI Music 小模型技术方案）
 
 ## 🤝 Contact
 欢迎交流 AI 产品设计与落地实践。
