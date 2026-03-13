@@ -20,6 +20,9 @@
 ### 2) Playbooks（方法论）
 - [AI 功能需求评审 Checklist](playbooks/ai-feature-checklist.md)
 
+### 2.5) Insights（洞察）
+- [Insight 01｜AI 应用中，什么场景适合“小模型”方案](insights/insight-01-when-to-use-small-models.md)
+
 ### 3) Workflows（工作流）
 - [周报生成工作流](workflows/weekly-report-workflow.md)
 
